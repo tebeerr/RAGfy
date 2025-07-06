@@ -1,0 +1,13 @@
+# Créer requirements_py313.txt
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-groq
+sentence-transformers
+faiss-cpu
+pypdf
+numpy
+requests
+transformers
+torch
