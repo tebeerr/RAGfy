@@ -1,0 +1,6 @@
+# In your project root, edit .gitignore
+echo "backend/.env" >> .gitignore
+# Or add it manually to .gitignore:
+# backend/.env
+# .env
+# *.env
