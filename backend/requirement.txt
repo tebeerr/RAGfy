@@ -4,10 +4,14 @@ python-dotenv
 langchain
 langchain-community
 langchain-groq
-sentence-transformers
+langchain-huggingface
 faiss-cpu
+sentence-transformers
 pypdf
-numpy
-requests
+unstructured
+opencv-python
+Pillow
 transformers
 torch
+torchvision
+numpy
